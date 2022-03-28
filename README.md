@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Atte2002
+- 👀 I’m interested in learning to code
+- 🌱 I’m currently learning python
